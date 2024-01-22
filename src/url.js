@@ -1,2 +1,2 @@
-export const URL = "https://tricky-red-pea-coat.cyclic.app"
-export const IF = "https://tricky-red-pea-coat.cyclic.app/images/"
+export const URL = "http://localhost:5000"
+export const IF = "http://localhost:5000/images/"
