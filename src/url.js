@@ -1,2 +1,2 @@
-export const URL = "https://fine-gray-reindeer-gear.cyclic.app"
-export const IF = "https://fine-gray-reindeer-gear.cyclic.app/images/"
+export const URL = "https://tricky-red-pea-coat.cyclic.app"
+export const IF = "https://tricky-red-pea-coat.cyclic.app/images/"
