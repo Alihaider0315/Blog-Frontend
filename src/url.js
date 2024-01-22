@@ -1,2 +1,2 @@
-export const URL = "http://localhost:5000"
-export const IF = "http://localhost:5000/images/"
+export const URL = "https://fine-gray-reindeer-gear.cyclic.app"
+export const IF = "https://fine-gray-reindeer-gear.cyclic.app/images/"
